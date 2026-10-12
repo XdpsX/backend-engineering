@@ -5,6 +5,7 @@ A personal knowledge base for backend engineering concepts, trade-offs, and smal
 ## Topics
 
 - [Idempotency](./idempotency/README.md)
+- [Redis](./docs/redis/README.md)
 
 ## Adding a topic
 
